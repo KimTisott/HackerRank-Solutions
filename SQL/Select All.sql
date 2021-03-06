@@ -1,3 +1,3 @@
 SELECT * 
-  FROM CITY
+  FROM city
 ;
