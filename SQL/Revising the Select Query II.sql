@@ -1,5 +1,5 @@
-SELECT NAME 
-  FROM CITY 
- WHERE COUNTRYCODE = 'USA' 
-   AND POPULATION > 120000
+SELECT name 
+  FROM city 
+ WHERE countrycode = 'USA' 
+   AND population > 120000
 ;
