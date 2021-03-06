@@ -1,3 +1,3 @@
-SELECT * 
+SELECT *
   FROM city
 ;
