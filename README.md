@@ -5,7 +5,7 @@ Implementations of the most efficient and fastest solutions for HackerRank chall
 
 ## SQL
 | Subdomain    | Difficulty | Skill        | Points | Challenge | Solution |
-| ------------ | ---------- | ------------ | ------ | --------- | -------- |
+| :----------: | :--------: | :----------: | :----: | :-------: | :------: |
 | Basic Select | Easy       | Basic        | 10     | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Revising%20the%20Select%20Query%20I.sql) |
 | Basic Select | Easy       | Basic        | 10     | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Revising%20the%20Select%20Query%20II.sql) |
 | Basic Select | Easy       | Basic        | 10     | [Select All](https://www.hackerrank.com/challenges/select-all-sql) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Select%20All.sql) |
