@@ -1,7 +1,8 @@
 # HackerRank Solutions
-Implementations of the most efficient and fastest solutions for HackerRank challenges.
+Personal implementations of the most efficient and fastest solutions for HackerRank challenges.
 
--- Currently working on the SQL skillset --
+** Currently working on the SQL skillset **
+* All solutions are subject to change *
 
 ## SQL
 | Subdomain    | Difficulty | Skill        | Points | Challenge | Solution |
