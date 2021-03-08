@@ -2,6 +2,7 @@
 Personal implementations of the most efficient and fastest solutions for HackerRank challenges.
 
 **Currently working on the SQL skillset**
+
 *All solutions are subject to change*
 
 ## SQL
