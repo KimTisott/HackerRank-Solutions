@@ -1,6 +1,8 @@
 # HackerRank Solutions
 Personal implementations of the most efficient and fastest solutions for HackerRank challenges.
 
+SQL solutions are being solved using MySQL, but will soon support DB2, Oracle and MS SQL Server.
+
 **Currently working on the SQL skillset**
 
 *All solutions are subject to change*
