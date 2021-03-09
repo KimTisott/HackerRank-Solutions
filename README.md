@@ -2,6 +2,7 @@
 Personal implementations of the most efficient and fastest solutions for HackerRank challenges.
 
 **Currently working on the SQL skillset**
+__Solutions are subject to change__
 
 ### TODO SQL
 * Add Oracle and MS SQL Server solutions
