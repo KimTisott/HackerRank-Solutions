@@ -7,7 +7,7 @@ Personal implementations of the most efficient and fastest solutions for HackerR
 * Add Oracle and MS SQL Server solutions
 * Add code documentations
 * Add benchmarking resources
-* Finish remaining SQL challenges
+* Finish remaining challenges
 
 ## SQL
 | Subdomain           | Difficulty | Skill        | Challenge | Solution |
