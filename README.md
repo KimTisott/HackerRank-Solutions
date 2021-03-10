@@ -6,17 +6,27 @@ __Solutions are subject to change__
 ## Problem Solving
 ### TODO
 * Finish remaining challenges
+* Code cleanup
 
-| Subdomain               | Difficulty | Skill        | Challenge | Solution     |
-| :---------------------: | :--------: | :----------: | :-------: | :----------: |
-| Warmup                  | Easy       | Basic        | []()      | [Solution]() |
+| Subdomain               | Difficulty | Skill        | Challenge                                                                            | Solution                                                                                                               |
+| :---------------------: | :--------: | :----------: | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+| Warmup                  | Easy       | Basic        | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)               | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Solve%20Me%20First.cs)        |
+| Warmup                  | Easy       | Basic        | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)           | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Simple%20Array%20Sum.cs)      |
+| Warmup                  | Easy       | Basic        | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)   | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Compare%20the%20Triplets.cs)  |
+| Warmup                  | Easy       | Basic        | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)               | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/A%20Very%20Big%20Sum.cs)      |
+| Warmup                  | Easy       | Basic        | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)     | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Diagonal%20Difference.cs)     |
+| Warmup                  | Easy       | Basic        | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)                       | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Plus%20Minus.cs)              |
+| Warmup                  | Easy       | Basic        | [Staircase](https://www.hackerrank.com/challenges/staircase)                         | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Staircase.cs)                 |
+| Warmup                  | Easy       | Basic        | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)                   | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Mini-Max%20Sum.cs)            |
+| Warmup                  | Easy       | Basic        | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Birthday%20Cake%20Candles.cs) |
+| Warmup                  | Easy       | Basic        | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)             | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Time%20Conversion.cs)         |
 
 ## SQL
 ### TODO
+* Organize source files
 * Add Oracle and MS SQL Server solutions
 * Add code documentations
 * Add benchmarking resources
-* Organize source files
 
 | Subdomain           | Difficulty | Skill        | Challenge                                                                                                                    | Solution                                                                                                                             |
 | :-----------------: | :--------: | :----------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
