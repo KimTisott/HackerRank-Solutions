@@ -1,4 +1,5 @@
-# HackerRank Solutions
+![alt text](https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png)
+
 Personal implementations of the most efficient and fastest solutions for HackerRank challenges.
 
 __Solutions are subject to change__
