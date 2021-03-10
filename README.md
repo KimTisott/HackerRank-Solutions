@@ -3,10 +3,9 @@ Personal implementations of the most efficient and fastest solutions for HackerR
 
 __Solutions are subject to change__
 
-## Problem Solving
+## Problem Solving - C#
 ### TODO
 * Finish remaining challenges
-* Code cleanup
 
 | Subdomain               | Difficulty | Skill        | Challenge                                                                            | Solution                                                                                                               |
 | :---------------------: | :--------: | :----------: | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
@@ -21,10 +20,8 @@ __Solutions are subject to change__
 | Warmup                  | Easy       | Basic        | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Birthday%20Cake%20Candles.cs) |
 | Warmup                  | Easy       | Basic        | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)             | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Time%20Conversion.cs)         |
 
-## SQL
+## SQL - MySQL
 ### TODO
-* Organize source files
-* Add Oracle and MS SQL Server solutions
 * Add code documentations
 * Add benchmarking resources
 
