@@ -3,22 +3,19 @@ Personal implementations of the most efficient and fastest solutions for HackerR
 
 __Solutions are subject to change__
 
-### TODO Problem Solving
-* Finish remaining challenges
-
 ## Problem Solving
-## SQL
+### TODO
+* Finish remaining challenges
 | Subdomain               | Difficulty | Skill        | Challenge | Solution     |
 | :---------------------: | :--------: | :----------: | :-------: | :----------: |
 | Warmup                  | Easy       | Basic        | []()      | [Solution]() |
 
-### TODO SQL
+## SQL
+### TODO
 * Add Oracle and MS SQL Server solutions
 * Add code documentations
 * Add benchmarking resources
 * Organize source files
-
-## SQL
 | Subdomain           | Difficulty | Skill        | Challenge                                                                                                                    | Solution                                                                                                                             |
 | :-----------------: | :--------: | :----------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 | Basic Select        | Easy       | Basic        | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)                               | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Revising%20the%20Select%20Query%20I.sql)                  |
