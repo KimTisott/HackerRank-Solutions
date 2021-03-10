@@ -1,10 +1,18 @@
 <p align="center">
-  <img height="100" src="HackerRankLogo.svg">
+  <a href="https://www.hackerrank.com">
+    <img height="100" src="HackerRankLogo.svg">
+  </a>
   <br>Minimalistic but efficient solutions for <a href="https://www.hackerrank.com">HackerRank</a> challenges</br>
 </p>
 
+# Solutions
 
-## Problem Solving - C#
+| Skillset                            | Languages |
+| :---------------------------------: | :-------: |
+| [Problem Solving](#problem-solving) | C#        |
+| [SQL](#sql)                         | MySQL     |
+
+## Problem Solving
 ### TODO
 * Finish remaining challenges
 
@@ -21,10 +29,11 @@
 | Warmup                  | Easy       | Basic        | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Birthday%20Cake%20Candles.cs) |
 | Warmup                  | Easy       | Basic        | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)             | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Time%20Conversion.cs)         |
 
-## SQL - MySQL
+## SQL
 ### TODO
 * Add code documentations
 * Add benchmarking resources
+* Add Oracle and MS SQL Server solutions
 
 | Subdomain           | Difficulty | Skill        | Challenge                                                                                                                    | Solution                                                                                                                             |
 | :-----------------: | :--------: | :----------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
