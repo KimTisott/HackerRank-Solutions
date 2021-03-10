@@ -10,6 +10,7 @@ __Solutions are subject to change__
 * Add code documentations
 * Add benchmarking resources
 * Finish remaining challenges
+* Organize source files
 
 ## SQL
 | Subdomain           | Difficulty | Skill        | Challenge | Solution |
