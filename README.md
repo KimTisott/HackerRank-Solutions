@@ -9,7 +9,6 @@ __Solutions are subject to change__
 * Add Oracle and MS SQL Server solutions
 * Add code documentations
 * Add benchmarking resources
-* Finish remaining challenges
 * Organize source files
 
 ## SQL
@@ -65,6 +64,11 @@ __Solutions are subject to change__
 | Basic Join          | Medium     | Intermediate | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Ollivander's%20Inventory.sql) |
 | Basic Join          | Medium     | Intermediate | [Challenges](https://www.hackerrank.com/challenges/challenges) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Challenges.sql) |
 | Basic Join          | Medium     | Intermediate | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Contest%20Leaderboard.sql) |
+| Advanced Join       | Medium     | Intermediate | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/SQL%20Project%20Planning.sql) |
+| Advanced Join       | Medium     | Intermediate | [Placements](https://www.hackerrank.com/challenges/placements) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Placements.sql) |
+| Advanced Join       | Medium     | Intermediate | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Symmetric%20Pairs.sql) |
+| Advanced Join       | Hard       | Intermediate | [Interviews](https://www.hackerrank.com/challenges/interviews) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Interviews.sql) |
+| Advanced Join       | Hard       | Advanced     | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/15%20Days%20of%20Learning%20SQL.sql) |
 | Alternative Queries | Easy       | Advanced     | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Draw%20The%20Triangle%201.sql) |
 | Alternative Queries | Easy       | Advanced     | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Draw%20The%20Triangle%202.sql) |
 | Alternative Queries | Medium     | Advanced     | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Print%20Prime%20Numbers.sql) |
