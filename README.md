@@ -97,7 +97,7 @@
 | Alternative Queries | Easy       | Advanced     | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2)                                             | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Draw%20The%20Triangle%202.sql)                            |
 | Alternative Queries | Medium     | Advanced     | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers)                                             | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Print%20Prime%20Numbers.sql)                              |
 
-### Contact Information
+## Contact Information
 <a href="https://www.hackerrank.com/kim_nicolay">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-64.png">
 </a>
