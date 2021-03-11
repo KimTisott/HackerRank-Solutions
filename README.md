@@ -7,10 +7,10 @@
 
 # Solutions
 
-| Skillset                            | Languages |
-| :---------------------------------: | :-------: |
-| [Problem Solving](#problem-solving) | C#        |
-| [SQL](#sql)                         | MySQL     |
+| Skillset                            | Language/Engine |
+| :---------------------------------: | :-------------: |
+| [Problem Solving](#problem-solving) | C#              |
+| [SQL](#sql)                         | MySQL           |
 
 
 ## Problem Solving
@@ -34,7 +34,6 @@
 ### TODO
 * Add code documentations
 * Add benchmarking resources
-* Add Oracle and MS SQL Server solutions
 
 | Subdomain           | Difficulty | Skill        | Challenge                                                                                                                    | Solution                                                                                                                             |
 | :-----------------: | :--------: | :----------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
