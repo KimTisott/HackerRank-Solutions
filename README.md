@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.hackerrank.com">
-    <img height="100" src="HackerRankLogo.svg">
+    <img src="https://hrcdn.net/hackerrank/assets/hackerranklogo_green-f581d6b2ab15544187d200eb9116d5921ca4e61e00a785fd409a9b0027d76a18.png">
   </a>
   <br>Minimalistic but efficient solutions for <a href="https://www.hackerrank.com">HackerRank</a> challenges</br>
 </p>
@@ -98,4 +98,9 @@
 | Alternative Queries | Medium     | Advanced     | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers)                                             | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Print%20Prime%20Numbers.sql)                              |
 
 ### Contact Information
-* [HackerRank](https://www.hackerrank.com/kim_nicolay)
+<a href="https://www.hackerrank.com/kim_nicolay">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-64.png">
+</a>
+<a href="https://www.linkedin.com/in/kim-tisott-58133815b">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png">
+</a>
