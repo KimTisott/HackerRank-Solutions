@@ -32,6 +32,7 @@
 | Algorithms | Implementation          | Easy       | Basic        | [Grading Students](https://www.hackerrank.com/challenges/grading)                    | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Grading%20Students.cs)        |
 | Algorithms | Implementation          | Easy       | Basic        | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)           | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Apple%20and%20Orange.cs)      |
 | Algorithms | Implementation          | Easy       | Basic        | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo)                  | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Number%20Line%20Jumps.cs)     |
+| Algorithms | Implementation          | Easy       | Basic        | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)           | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Between%20Two%20Sets.cs)      |
 
 ## SQL
 ### TODO
