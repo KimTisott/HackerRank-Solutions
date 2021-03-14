@@ -7,10 +7,10 @@
 
 # Solutions
 
-| Skillset                            | Language/Engine |
-| :---------------------------------: | :-------------: |
-| [Problem Solving](#problem-solving) | C#              |
-| [SQL](#sql)                         | MySQL           |
+| Skillset                            |
+| :---------------------------------: |
+| [Problem Solving](#problem-solving) |
+| [SQL](#sql)                         |
 
 
 ## Problem Solving
