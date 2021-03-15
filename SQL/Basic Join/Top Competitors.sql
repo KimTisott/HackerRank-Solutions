@@ -10,4 +10,3 @@ SELECT DISTINCT h.hacker_id, h.name
  GROUP BY h.hacker_id, h.name
 HAVING COUNT(s.hacker_id) > 1
  ORDER BY COUNT(s.hacker_id) DESC, s.hacker_id ASC
-;
