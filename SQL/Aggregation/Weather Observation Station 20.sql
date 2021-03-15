@@ -5,4 +5,3 @@ SELECT ROUND(AVG(s.lat_n), 4)
          ORDER BY station.lat_n
        ) AS s
  WHERE s.rowindex IN (FLOOR(@rowindex / 2), CEIL(@rowindex / 2))
-;
