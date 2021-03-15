@@ -1,3 +1,2 @@
 SELECT *
   FROM city
-;
