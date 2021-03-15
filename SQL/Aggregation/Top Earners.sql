@@ -3,4 +3,3 @@ SELECT salary * months AS earnings, COUNT(*)
  GROUP BY earnings
  ORDER BY earnings DESC
  LIMIT 1
-;
