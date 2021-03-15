@@ -19,4 +19,3 @@ HAVING t = (SELECT MAX(c1.t1)
                 HAVING COUNT(c2.t2) = 1
                )
  ORDER BY t DESC, h.hacker_id
-;
