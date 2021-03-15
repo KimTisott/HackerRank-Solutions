@@ -21,4 +21,3 @@ SELECT submission_date
           FROM submissions
        ) AS s1
  GROUP BY submission_date
-;
