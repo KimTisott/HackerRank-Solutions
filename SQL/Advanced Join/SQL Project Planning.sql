@@ -4,4 +4,3 @@ SELECT start_date, MIN(end_date)
  WHERE start_date < end_date
  GROUP BY start_date
  ORDER BY DATEDIFF(MIN(end_date), start_date), start_date
-;
