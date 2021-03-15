@@ -8,4 +8,3 @@ SELECT h.hacker_id, name, SUM(score) AS total_score
  GROUP BY h.hacker_id, name
 HAVING total_score > 0
  ORDER BY total_score DESC, h.hacker_id
-;
