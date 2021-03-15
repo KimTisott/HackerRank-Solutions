@@ -3,4 +3,3 @@ SELECT ROUND(long_w, 4)
  WHERE lat_n < 137.2345
  ORDER BY lat_n DESC
  LIMIT 1
-;
