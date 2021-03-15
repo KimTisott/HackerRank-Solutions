@@ -23,27 +23,27 @@
 
 ### Warmup
 
-| Difficulty | Skill | Challenge                                                                            | Solution                                                                                                               |
-| :--------: | :---: | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-| Easy       | Basic | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)               | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Solve%20Me%20First.cs)        |
-| Easy       | Basic | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)           | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Simple%20Array%20Sum.cs)      |
-| Easy       | Basic | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)   | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Compare%20the%20Triplets.cs)  |
-| Easy       | Basic | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)               | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/A%20Very%20Big%20Sum.cs)      |
-| Easy       | Basic | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)     | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Diagonal%20Difference.cs)     |
-| Easy       | Basic | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)                       | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Plus%20Minus.cs)              |
-| Easy       | Basic | [Staircase](https://www.hackerrank.com/challenges/staircase)                         | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Staircase.cs)                 |
-| Easy       | Basic | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)                   | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Mini-Max%20Sum.cs)            |
-| Easy       | Basic | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Birthday%20Cake%20Candles.cs) |
-| Easy       | Basic | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)             | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Time%20Conversion.cs)         |
+| Difficulty | Skill | Challenge                                                                            | Solution                                                                                                                                 |
+| :--------: | :---: | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+| Easy       | Basic | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)               | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Warmup/Solve%20Me%20First.cs)        |
+| Easy       | Basic | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)           | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Warmup/Simple%20Array%20Sum.cs)      |
+| Easy       | Basic | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)   | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Warmup/Compare%20the%20Triplets.cs)  |
+| Easy       | Basic | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)               | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Warmup/A%20Very%20Big%20Sum.cs)      |
+| Easy       | Basic | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)     | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Warmup/Diagonal%20Difference.cs)     |
+| Easy       | Basic | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)                       | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Warmup/Plus%20Minus.cs)              |
+| Easy       | Basic | [Staircase](https://www.hackerrank.com/challenges/staircase)                         | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Warmup/Staircase.cs)                 |
+| Easy       | Basic | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)                   | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Warmup/Mini-Max%20Sum.cs)            |
+| Easy       | Basic | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Warmup/Birthday%20Cake%20Candles.cs) |
+| Easy       | Basic | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)             | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Warmup/Time%20Conversion.cs)         |
 
 ### Implementation
 
-| Difficulty | Skill | Challenge                                                                  | Solution                                                                                                           |
-| :--------: | :---: | :------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-| Easy       | Basic | [Grading Students](https://www.hackerrank.com/challenges/grading)          | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Grading%20Students.cs)    |
-| Easy       | Basic | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Apple%20and%20Orange.cs)  |
-| Easy       | Basic | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo)        | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Number%20Line%20Jumps.cs) |
-| Easy       | Basic | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Between%20Two%20Sets.cs)  |
+| Difficulty | Skill | Challenge                                                                  | Solution                                                                                                                                     |
+| :--------: | :---: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
+| Easy       | Basic | [Grading Students](https://www.hackerrank.com/challenges/grading)          | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Implementation/Grading%20Students.cs)    |
+| Easy       | Basic | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Implementation/Apple%20and%20Orange.cs)  |
+| Easy       | Basic | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo)        | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Implementation/Number%20Line%20Jumps.cs) |
+| Easy       | Basic | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | [Solution](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Implementation/Between%20Two%20Sets.cs)  |
 
 # SQL
 
