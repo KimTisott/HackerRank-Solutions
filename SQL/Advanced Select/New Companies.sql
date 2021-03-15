@@ -14,4 +14,3 @@ SELECT c.company_code, c.founder
    AND m.manager_code = e.manager_code
  GROUP BY c.company_code, c.founder
  ORDER BY company_code
-;
