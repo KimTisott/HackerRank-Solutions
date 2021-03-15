@@ -7,4 +7,3 @@ SELECT n, CASE WHEN p IS NULL THEN 'Root'
            END
   FROM bst AS b
  ORDER BY n
-;
