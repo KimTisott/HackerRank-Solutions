@@ -28,4 +28,3 @@ HAVING total_submissions_sum != 0
        AND total_views_sum != 0
        AND total_unique_views_sum != 0
  ORDER BY c1.contest_id
-;
