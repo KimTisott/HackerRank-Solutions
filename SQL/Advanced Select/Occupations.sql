@@ -12,4 +12,3 @@ SELECT MIN(d), MIN(p), MIN(s), MIN(a)
          ORDER BY name
        ) AS t
  GROUP BY row_index
-;
