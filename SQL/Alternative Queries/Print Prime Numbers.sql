@@ -11,4 +11,3 @@ SELECT GROUP_CONCAT(n SEPARATOR '&')
                            LIMIT 1000
                          ) AS n2
                    WHERE MOD(n, d) = 0 AND n <> d)
-;
