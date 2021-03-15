@@ -6,4 +6,3 @@ SELECT CONCAT("There are a total of ", COUNT(occupation), " ", LOWER(occupation)
   FROM occupations
  GROUP BY occupation
  ORDER BY total
-;
