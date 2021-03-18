@@ -5,11 +5,11 @@
   <br>My implementations for solutions of <a href="https://www.hackerrank.com">HackerRank</a> challenges</br>
 </p>
 
-* [Problem Solving](#problem-solving)
+* [Problem Solving](#problem-solving) ![image](https://img.shields.io/badge/C%23-773A91)
   * [Algorithms](#algorithms)
     * [Warmup](#warmup)
     * [Implementation](#implementation)
-* [SQL](#sql)
+* [SQL](#sql) ![image](https://img.shields.io/badge/MySQL-00758F) ![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927) ![image](https://img.shields.io/badge/Oracle-F80102)
   * [Basic Select](#basic-select)
   * [Advanced Select](#advanced-select)
   * [Aggregation](#aggregation)
