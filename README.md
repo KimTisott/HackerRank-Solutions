@@ -9,7 +9,7 @@
   * [Algorithms](#algorithms)
     * [Warmup](#warmup)
     * [Implementation](#implementation)
-* [SQL](#sql) ![image](https://img.shields.io/badge/MySQL-00758F) ![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927) ![image](https://img.shields.io/badge/Oracle-F80102)
+* [SQL](#sql) ![image](https://img.shields.io/badge/MySQL-00758F) ![image](https://img.shields.io/badge/MSSQL-CC2927) ![image](https://img.shields.io/badge/Oracle-F80102)
   * [Basic Select](#basic-select)
   * [Advanced Select](#advanced-select)
   * [Aggregation](#aggregation)
