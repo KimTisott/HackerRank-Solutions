@@ -17,6 +17,8 @@
   * [Advanced Join](#advanced-join)
   * [Alternative Queries](#alternative-queries)
 
+Solution requests can be done [here](https://github.com/KimTisott/HackerRank-Solutions/issues/new)
+
 # Problem Solving
 
 ## Algorithms
