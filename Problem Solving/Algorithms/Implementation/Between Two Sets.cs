@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 class Solution {
-	  int getTotalX(List<int> a, List<int> b) {
+    int getTotalX(List<int> a, List<int> b) {
         int result = 0, counter = 1, aMax = a.Max(), bMin = b.Min(), aMaxMultiple = aMax;
         while (aMaxMultiple <= bMin) {
             var isFactor = true;
