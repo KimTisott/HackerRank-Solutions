@@ -137,7 +137,7 @@ Solution requests can be done [here](https://github.com/KimTisott/HackerRank-Sol
 | Easy       | Advanced | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2) | [MySQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Alternative%20Queries/Draw%20The%20Triangle%202.sql) |
 | Medium     | Advanced | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers) | [MySQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Alternative%20Queries/Print%20Prime%20Numbers.sql)   |
 
-# Contact Information
+### Contact Information
 <a href="https://www.hackerrank.com/kim_nicolay">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-64.png">
 </a>
