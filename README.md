@@ -2,7 +2,7 @@
   <a href="https://www.hackerrank.com">
     <img src="https://hrcdn.net/hackerrank/assets/hackerranklogo_green-f581d6b2ab15544187d200eb9116d5921ca4e61e00a785fd409a9b0027d76a18.png">
   </a>
-  <br>Minimalistic but efficient solutions for <a href="https://www.hackerrank.com">HackerRank</a> challenges</br>
+  <br>My implementations for solutions of <a href="https://www.hackerrank.com">HackerRank</a> challenges</br>
 </p>
 
 * [Problem Solving](#problem-solving)
