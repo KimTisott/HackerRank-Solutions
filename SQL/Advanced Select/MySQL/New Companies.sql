@@ -1,8 +1,8 @@
-SELECT c.company_code, c.founder
-       , COUNT(DISTINCT l.lead_manager_code)
-       , COUNT(DISTINCT s.senior_manager_code)
-       , COUNT(DISTINCT m.manager_code)
-       , COUNT(DISTINCT e.employee_code)
+SELECT c.company_code, c.founder,
+       COUNT(DISTINCT l.lead_manager_code),
+       COUNT(DISTINCT s.senior_manager_code),
+       COUNT(DISTINCT m.manager_code),
+       COUNT(DISTINCT e.employee_code)
   FROM company AS c, 
        lead_manager AS l, 
        senior_manager AS s, 
