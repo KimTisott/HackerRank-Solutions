@@ -76,7 +76,7 @@ Solution requests can be done [here](https://github.com/KimTisott/HackerRank-Sol
 
 ## Advanced Select
 
-| Difficulty | Skill        | Challenge                                                                       | Solution                                                                                                                                                                                                                                                                                                                                                                           |
+| Difficulty | Skill        | Challenge                                                                       | Solutions                                                                                                                                                                                                                                                                                                                                                                          |
 | :--------: | :----------: | :-----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Easy       | Basic        | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle) | [MySQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Advanced%20Select/MySQL/Type%20of%20Triangle.sql) [MSSQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Advanced%20Select/MSSQL/Type%20of%20Triangle.sql) [Oracle](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Advanced%20Select/Oracle/Type%20of%20Triangle.sql)    |
 | Medium     | Basic        | [The PADS](https://www.hackerrank.com/challenges/the-pads)                      | [MySQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Advanced%20Select/MySQL/The%20PADS.sql) [MSSQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Advanced%20Select/MSSQL/The%20PADS.sql) [Oracle](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Advanced%20Select/Oracle/The%20PADS.sql)                                  |
@@ -86,7 +86,7 @@ Solution requests can be done [here](https://github.com/KimTisott/HackerRank-Sol
 
 ## Aggregation
 
-| Difficulty | Skill        | Challenge                                                                                                                    | Solution                                                                                                                                      |
+| Difficulty | Skill        | Challenge                                                                                                                    | Solutions                                                                                                                                     |
 | :--------: | :----------: | :--------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 | Easy       | Basic        | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | [MySQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql) |
 | Easy       | Basic        | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum)                  | [MySQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)   |
@@ -108,7 +108,7 @@ Solution requests can be done [here](https://github.com/KimTisott/HackerRank-Sol
 
 ## Basic Join
 
-| Difficulty | Skill        | Challenge                                                                                                          | Solution                                                                                                                               |
+| Difficulty | Skill        | Challenge                                                                                                          | Solutions                                                                                                                              |
 | :--------: | :----------: | :----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | Easy       | Basic        | [Asian Population](https://www.hackerrank.com/challenges/asian-population)                                         | [MySQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Basic%20Join/Asian%20Population.sql)                           |
 | Easy       | Basic        | [African Cities](https://www.hackerrank.com/challenges/african-cities)                                             | [MySQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Basic%20Join/African%20Cities.sql)                             |
@@ -121,7 +121,7 @@ Solution requests can be done [here](https://github.com/KimTisott/HackerRank-Sol
 
 ## Advanced Join
 
-| Difficulty | Skill        | Challenge                                                                                | Solution                                                                                                                     |
+| Difficulty | Skill        | Challenge                                                                                | Solutions                                                                                                                    |
 | :--------: | :----------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 | Medium     | Intermediate | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects)               | [MySQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Advanced%20Join/SQL%20Project%20Planning.sql)        |
 | Medium     | Intermediate | [Placements](https://www.hackerrank.com/challenges/placements)                           | [MySQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Advanced%20Join/Placements.sql)                      |
@@ -131,7 +131,7 @@ Solution requests can be done [here](https://github.com/KimTisott/HackerRank-Sol
 
 ## Alternative Queries
 
-| Difficulty | Skill    | Challenge                                                                        | Solution                                                                                                                     |
+| Difficulty | Skill    | Challenge                                                                        | Solutions                                                                                                                    |
 | :--------: | :------: | :------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 | Easy       | Advanced | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1) | [MySQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Alternative%20Queries/Draw%20The%20Triangle%201.sql) |
 | Easy       | Advanced | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2) | [MySQL](https://github.com/KimTisott/HackerRank-Solutions/blob/main/SQL/Alternative%20Queries/Draw%20The%20Triangle%202.sql) |
