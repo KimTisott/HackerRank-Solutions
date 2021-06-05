@@ -9,6 +9,8 @@
   * [Algorithms](#algorithms)
     * [Warmup](#warmup)
     * [Implementation](#implementation)
+  * [Data Structures](#data-structures)
+    * [Arrays](#arrays)
 * [SQL](#sql) ![image](https://img.shields.io/badge/MySQL-00758F) ![image](https://img.shields.io/badge/MSSQL-CC2927) ![image](https://img.shields.io/badge/Oracle-F80102)
   * [Basic Select](#basic-select)
   * [Advanced Select](#advanced-select)
@@ -46,6 +48,15 @@ Solution requests can be done [here](https://github.com/KimTisott/HackerRank-Sol
 | Easy       | Basic | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | [C#](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Implementation/Apple%20and%20Orange.cs)  |
 | Easy       | Basic | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo)        | [C#](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Implementation/Number%20Line%20Jumps.cs) |
 | Easy       | Basic | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | [C#](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Algorithms/Implementation/Between%20Two%20Sets.cs)  |
+
+## Data Structures
+
+### Arrays
+
+| Difficulty | Skill | Challenge                                                                  | Solution                                                                                                                            |
+| :--------: | :---: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+| Easy       | Basic | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)             | [C#](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Data%20Structures/Arrays/Arrays%20-%20DS.cs)     |
+| Easy       | Basic | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)            | [C#](https://github.com/KimTisott/HackerRank-Solutions/blob/main/Problem%20Solving/Data%20Structures/Arrays/2D%20Array%20-%20DS.cs) |
 
 # SQL
 
