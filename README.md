@@ -5,7 +5,7 @@
   <br>My implementations for solutions of <a href="https://www.hackerrank.com">HackerRank</a> challenges</br>
 </p>
 
-* [Problem Solving](#problem-solving) ![image](https://img.shields.io/badge/C%23-773A91) ![image](https://img.shields.io/badge/C-474AFF)
+* [Problem Solving](#problem-solving) ![image](https://img.shields.io/badge/C-474AFF) ![image](https://img.shields.io/badge/C%23-773A91)
   * [Algorithms](#algorithms)
     * [Warmup](#warmup)
     * [Implementation](#implementation)
