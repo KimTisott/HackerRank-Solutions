@@ -7,7 +7,6 @@ int* compareTriplets(int a_count, int* a, int b_count, int* b, int* result_count
     for (int i = 0; i < a_count; i++)
     {
         result[0] += a[i] > b[i];
-        
         result[1] += a[i] < b[i];
     }
     
