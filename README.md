@@ -42,12 +42,14 @@ Solution requests can be done [here](https://github.com/KimTisott/HackerRank-Sol
 
 ### Implementation
 
-| Difficulty | Skill | Challenge                                                                  | Solutions                                                                                                                                               |
-| :--------: | :---: | :------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Easy       | Basic | [Grading Students](https://www.hackerrank.com/challenges/grading)          | [C](./Problem%20Solving/Algorithms/Implementation/Grading%20Students.c)    [C#](./Problem%20Solving/Algorithms/Implementation/Grading%20Students.cs)    |
-| Easy       | Basic | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | [C](./Problem%20Solving/Algorithms/Implementation/Apple%20and%20Orange.c)  [C#](./Problem%20Solving/Algorithms/Implementation/Apple%20and%20Orange.cs)  |
-| Easy       | Basic | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo)        | [C](./Problem%20Solving/Algorithms/Implementation/Number%20Line%20Jumps.c) [C#](./Problem%20Solving/Algorithms/Implementation/Number%20Line%20Jumps.cs) |
-| Easy       | Basic | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | [C](./Problem%20Solving/Algorithms/Implementation/Between%20Two%20Sets.c)  [C#](./Problem%20Solving/Algorithms/Implementation/Between%20Two%20Sets.cs)  |
+| Difficulty | Skill | Challenge                                                                                     | Solutions                                                                                                                                                  |
+| :--------: | :---: | :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Easy       | Basic | [Grading Students](https://www.hackerrank.com/challenges/grading)                             | [C](./Problem%20Solving/Algorithms/Implementation/Grading%20Students.c)       [C#](./Problem%20Solving/Algorithms/Implementation/Grading%20Students.cs)    |
+| Easy       | Basic | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)                    | [C](./Problem%20Solving/Algorithms/Implementation/Apple%20and%20Orange.c)     [C#](./Problem%20Solving/Algorithms/Implementation/Apple%20and%20Orange.cs)  |
+| Easy       | Basic | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo)                           | [C](./Problem%20Solving/Algorithms/Implementation/Number%20Line%20Jumps.c)    [C#](./Problem%20Solving/Algorithms/Implementation/Number%20Line%20Jumps.cs) |
+| Easy       | Basic | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)                    | [C](./Problem%20Solving/Algorithms/Implementation/Between%20Two%20Sets.c)     [C#](./Problem%20Solving/Algorithms/Implementation/Between%20Two%20Sets.cs)  |
+| Easy       | Basic | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | [C](./Problem%20Solving/Algorithms/Implementation/Breaking%20the%20Records.c)                                                                              |
+| Easy       | Basic | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar)                   | [C](./Problem%20Solving/Algorithms/Implementation/Subarray%20Division.c)                                                                                   |
 
 ## Data Structures
 
