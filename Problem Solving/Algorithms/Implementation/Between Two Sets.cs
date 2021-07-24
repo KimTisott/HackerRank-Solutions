@@ -16,6 +16,7 @@ class Solution
                 if (aMaxMultiple % item != 0)
                 {
                     isFactor = false;
+                    
                     break;
                 }
             }
@@ -27,6 +28,7 @@ class Solution
                     if (item % aMaxMultiple != 0)
                     {
                         isFactor = false;
+                        
                         break;
                     }
                 }
