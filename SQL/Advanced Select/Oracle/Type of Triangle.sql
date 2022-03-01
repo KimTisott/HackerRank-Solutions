@@ -4,3 +4,4 @@ SELECT CASE WHEN (a + b <= c OR a + c <= b OR b + c <= a) THEN 'Not A Triangle'
             ELSE 'Scalene'
        END
   FROM triangles
+;
