@@ -5,13 +5,13 @@
   <br>My implementations for solutions of <a href="https://www.hackerrank.com">HackerRank</a> challenges</br>
 </p>
 
-* [Problem Solving](#problem-solving) ![image](https://img.shields.io/badge/C-474AFF) ![image](https://img.shields.io/badge/C%23-773A91)
+* [Problem Solving](#problem-solving) ![](https://progress-bar.dev/10) ![](https://img.shields.io/badge/C-474AFF) ![](https://img.shields.io/badge/C%23-773A91)
   * [Algorithms](#algorithms)
     * [Warmup](#warmup)
     * [Implementation](#implementation)
   * [Data Structures](#data-structures)
     * [Arrays](#arrays)
-* [SQL](#sql) ![image](https://img.shields.io/badge/MySQL-00758F) ![image](https://img.shields.io/badge/MSSQL-CC2927) ![image](https://img.shields.io/badge/Oracle-F80102)
+* [SQL](#sql) ![](https://progress-bar.dev/100) ![](https://img.shields.io/badge/MySQL-00758F) ![](https://img.shields.io/badge/MSSQL-CC2927) ![](https://img.shields.io/badge/Oracle-F80102)
   * [Basic Select](#basic-select)
   * [Advanced Select](#advanced-select)
   * [Aggregation](#aggregation)
