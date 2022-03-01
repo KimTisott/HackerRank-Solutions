@@ -28,7 +28,7 @@ Solution requests and contributions can be done [here](https://github.com/KimTis
 
 ## ProjectEuler+
 
-| #   | Difficulty | Challenge                                                                                    | Solutions                                                      |
+| #   | Difficulty | Challenge                                                                                    | Solution                                                       |
 | :-: | :--------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
 | 1   | Easy       | [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | [C#](./Contests/ProjectEuler+/Multiples%20of%203%20and%205.cs) |
 
@@ -40,7 +40,7 @@ Solution requests and contributions can be done [here](https://github.com/KimTis
 
 #### Warmup
 
-| Difficulty | Skill | Challenge                                                                            | Solutions                                                                                                                                                         |
+| Difficulty | Skill | Challenge                                                                            | Solution                                                                                                                                                          |
 | :--------: | :---: | :----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Easy       | Basic | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)               | [C](./Practice/Problem%20Solving/Algorithms/Warmup/Solve%20Me%20First.c)        [C#](./Practice/Problem%20Solving/Algorithms/Warmup/Solve%20Me%20First.cs)        |
 | Easy       | Basic | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)           | [C](./Practice/Problem%20Solving/Algorithms/Warmup/Simple%20Array%20Sum.c)      [C#](./Practice/Problem%20Solving/Algorithms/Warmup/Simple%20Array%20Sum.cs)      |
@@ -55,7 +55,7 @@ Solution requests and contributions can be done [here](https://github.com/KimTis
 
 #### Implementation
 
-| Difficulty | Skill | Challenge                                                                                     | Solutions                                                                                                                                                                    |
+| Difficulty | Skill | Challenge                                                                                     | Solution                                                                                                                                                                     |
 | :--------: | :---: | :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Easy       | Basic | [Grading Students](https://www.hackerrank.com/challenges/grading)                             | [C](./Practice/Problem%20Solving/Algorithms/Implementation/Grading%20Students.c)       [C#](./Practice/Problem%20Solving/Algorithms/Implementation/Grading%20Students.cs)    |
 | Easy       | Basic | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)                    | [C](./Practice/Problem%20Solving/Algorithms/Implementation/Apple%20and%20Orange.c)     [C#](./Practice/Problem%20Solving/Algorithms/Implementation/Apple%20and%20Orange.cs)  |
@@ -68,7 +68,7 @@ Solution requests and contributions can be done [here](https://github.com/KimTis
 
 #### Arrays
 
-| Difficulty | Skill | Challenge                                                                  | Solutions                                                                                                                                                           |
+| Difficulty | Skill | Challenge                                                                  | Solution                                                                                                                                                            |
 | :--------: | :---: | :------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Easy       | Basic | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)             | [C](./Practice/Problem%20Solving/Data%20Structures/Arrays/Arrays%20-%20DS.c)     [C#](./Practice/Problem%20Solving/Data%20Structures/Arrays/Arrays%20-%20DS.cs)     |
 | Easy       | Basic | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)            | [C](./Practice/Problem%20Solving/Data%20Structures/Arrays/2D%20Array%20-%20DS.c) [C#](./Practice/Problem%20Solving/Data%20Structures/Arrays/2D%20Array%20-%20DS.cs) |
@@ -77,7 +77,7 @@ Solution requests and contributions can be done [here](https://github.com/KimTis
 
 ### Basic Select
 
-| Difficulty | Skill | Challenge                                                                                              | Solutions                                                                                                                                                                                                                                                           |
+| Difficulty | Skill | Challenge                                                                                              | Solution                                                                                                                                                                                                                                                            |
 | :--------: | :---: | :----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Easy       | Basic | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)         | [MySQL](./Practice/SQL/Basic%20Select/MySQL/Revising%20the%20Select%20Query%20I.sql)  [MSSQL](./Practice/SQL/Basic%20Select/MSSQL/Revising%20the%20Select%20Query%20I.sql)  [Oracle](./Practice/SQL/Basic%20Select/Oracle/Revising%20the%20Select%20Query%20I.sql)  |
 | Easy       | Basic | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)      | [MySQL](./Practice/SQL/Basic%20Select/MySQL/Revising%20the%20Select%20Query%20II.sql) [MSSQL](./Practice/SQL/Basic%20Select/MSSQL/Revising%20the%20Select%20Query%20II.sql) [Oracle](./Practice/SQL/Basic%20Select/Oracle/Revising%20the%20Select%20Query%20II.sql) |
@@ -102,7 +102,7 @@ Solution requests and contributions can be done [here](https://github.com/KimTis
 
 ### Advanced Select
 
-| Difficulty | Skill        | Challenge                                                                       | Solutions                                                                                                                                                                                                                       |
+| Difficulty | Skill        | Challenge                                                                       | Solution                                                                                                                                                                                                                        |
 | :--------: | :----------: | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Easy       | Basic        | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle) | [MySQL](./Practice/SQL/Advanced%20Select/MySQL/Type%20of%20Triangle.sql)  [MSSQL](./Practice/SQL/Advanced%20Select/MSSQL/Type%20of%20Triangle.sql)  [Oracle](./Practice/SQL/Advanced%20Select/Oracle/Type%20of%20Triangle.sql)  |
 | Medium     | Basic        | [The PADS](https://www.hackerrank.com/challenges/the-pads)                      | [MySQL](./Practice/SQL/Advanced%20Select/MySQL/The%20PADS.sql)            [MSSQL](./Practice/SQL/Advanced%20Select/MSSQL/The%20PADS.sql)            [Oracle](./Practice/SQL/Advanced%20Select/Oracle/The%20PADS.sql)            |
@@ -112,7 +112,7 @@ Solution requests and contributions can be done [here](https://github.com/KimTis
 
 ### Aggregation
 
-| Difficulty | Skill        | Challenge                                                                                                                    | Solutions                                                                                                                                                                                                                                                                                                  |
+| Difficulty | Skill        | Challenge                                                                                                                    | Solution                                                                                                                                                                                                                                                                                                   |
 | :--------: | :----------: | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Easy       | Basic        | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | [MySQL](./Practice/SQL/Aggregation/MySQL/Revising%20Aggregations%20-%20The%20Count%20Function.sql) [MSSQL](./Practice/SQL/Aggregation/MSSQL/Revising%20Aggregations%20-%20The%20Count%20Function.sql) [Oracle](./Practice/SQL/Aggregation/Oracle/Revising%20Aggregations%20-%20The%20Count%20Function.sql) |
 | Easy       | Basic        | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum)                  | [MySQL](./Practice/SQL/Aggregation/MySQL/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)   [MSSQL](./Practice/SQL/Aggregation/MSSQL/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)   [Oracle](./Practice/SQL/Aggregation/Oracle/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)   |
@@ -134,7 +134,7 @@ Solution requests and contributions can be done [here](https://github.com/KimTis
 
 ### Basic Join
 
-| Difficulty | Skill        | Challenge                                                                                                          | Solutions                                                                             |
+| Difficulty | Skill        | Challenge                                                                                                          | Solution                                                                              |
 | :--------: | :----------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
 | Easy       | Basic        | [Asian Population](https://www.hackerrank.com/challenges/asian-population)                                         | [MySQL](./Practice/SQL/Basic%20Join/Asian%20Population.sql)                           |
 | Easy       | Basic        | [African Cities](https://www.hackerrank.com/challenges/african-cities)                                             | [MySQL](./Practice/SQL/Basic%20Join/African%20Cities.sql)                             |
@@ -147,7 +147,7 @@ Solution requests and contributions can be done [here](https://github.com/KimTis
 
 ### Advanced Join
 
-| Difficulty | Skill        | Challenge                                                                                | Solutions                                                                   |
+| Difficulty | Skill        | Challenge                                                                                | Solution                                                                    |
 | :--------: | :----------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
 | Medium     | Intermediate | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects)               | [MySQL](./Practice/SQL/Advanced%20Join/SQL%20Project%20Planning.sql)        |
 | Medium     | Intermediate | [Placements](https://www.hackerrank.com/challenges/placements)                           | [MySQL](./Practice/SQL/Advanced%20Join/Placements.sql)                      |
@@ -157,7 +157,7 @@ Solution requests and contributions can be done [here](https://github.com/KimTis
 
 ### Alternative Queries
 
-| Difficulty | Skill    | Challenge                                                                        | Solutions                                                                   |
+| Difficulty | Skill    | Challenge                                                                        | Solution                                                                    |
 | :--------: | :------: | :------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
 | Easy       | Advanced | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1) | [MySQL](./Practice/SQL/Alternative%20Queries/Draw%20The%20Triangle%201.sql) |
 | Easy       | Advanced | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2) | [MySQL](./Practice/SQL/Alternative%20Queries/Draw%20The%20Triangle%202.sql) |
