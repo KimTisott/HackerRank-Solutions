@@ -6,7 +6,7 @@
 </p>
 
 * [Contests](#contests)
-  * [ProjectEuler+](#projecteuler+) ![](https://progress-bar.dev/1) ![](https://img.shields.io/badge/C%23-773A91)
+  * [ProjectEuler+](#projecteuler) ![](https://progress-bar.dev/1) ![](https://img.shields.io/badge/C%23-773A91)
 * [Practice](#practice)
   * [Problem Solving](#problem-solving) ![](https://progress-bar.dev/10) ![](https://img.shields.io/badge/C-474AFF) ![](https://img.shields.io/badge/C%23-773A91)
     * [Algorithms](#algorithms)
