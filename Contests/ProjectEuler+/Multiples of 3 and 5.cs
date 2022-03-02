@@ -2,7 +2,6 @@ using System;
 
 class Solution
 {
-
     static void Main(String[] args)
     {
         int t = Convert.ToInt32(Console.ReadLine());
