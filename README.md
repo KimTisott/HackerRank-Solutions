@@ -28,9 +28,11 @@ Solution requests and contributions can be done [here](https://github.com/KimTis
 
 ## ProjectEuler+
 
-| #   | Difficulty | Challenge                                                                                    | Solutions                                                      |
-| :-: | :--------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
-| 1   | Easy       | [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | [C#](./Contests/ProjectEuler+/Multiples%20of%203%20and%205.cs) |
+| #   | Difficulty | Challenge                                                                                      | Solutions                                                      |
+| :-: | :--------: | :--------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
+| 1   | Easy       | [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)   | [C#](./Contests/ProjectEuler+/Multiples%20of%203%20and%205.cs) |
+| 2   | Easy       | [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | [C#](./Contests/ProjectEuler+/Even%20Fibonacci%20Numbers.cs)   |
+| 3   | Easy       | [Largest Prime Factor](https://www.hackerrank.com/contests/projecteuler/challenges/euler003)   | [C#](./Contests/ProjectEuler+/Largest%20Prime%20Factor.cs)     |
 
 # Practice
 
